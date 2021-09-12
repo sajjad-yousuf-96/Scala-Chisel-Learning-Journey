@@ -1,8 +1,4 @@
 package labscala2
-
-/**
-  * Created by pawel on 09.04.16.
-  */
 object Main {
 
   object Demonstration {
