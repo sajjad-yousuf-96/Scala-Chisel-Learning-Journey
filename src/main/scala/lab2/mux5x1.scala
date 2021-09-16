@@ -19,3 +19,4 @@ class Mux_5to1 extends Module {
         (io.sel=== except)  -> 32.U,
         ))
 }   
+
